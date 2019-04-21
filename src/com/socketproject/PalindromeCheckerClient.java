@@ -48,6 +48,8 @@ public class PalindromeCheckerClient {
             	}
                 //System.out.println(in.nextLine());
              }
+            
+            scanner.close();
             System.out.println("Closing connection for this client");
         }
 	    catch(IOException ex){ ex.printStackTrace();}
