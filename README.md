@@ -59,7 +59,7 @@ as it is backwards such as “Bob”.
     -   Go to command prompt (or Putty if you are running on SSH) on your
         computer
 
-    ![](media/b51102045d3f758bd185ac7b3f40fb66.png)
+![cmdsearch](https://github.com/CodeRika/SocketProgrammingProject/blob/master/images/cmdsearch.png)
 
     -   After you open up “command prompt” you want to make sure you are in the
         same directory that you saved your jar files in.
@@ -97,11 +97,9 @@ to work.
 
 **Test Result:**
 
--   If you program works
+-   If you program works on Eclipse, you get the following output in the Client console:
 
 ![](media/14c72877d9c1d7293925d071f2f8867d.png)
-
-on Eclipse, you get the following output in the Client console:
 
 -   Using command prompt, you see the following results:
 
