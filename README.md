@@ -1,4 +1,4 @@
-**Socket Programming**
+# Socket Programming
 
 **Overview:** This socket program is to help users figure out if what they typed is a palindrome or not. A palindrome is a word that is spelled the same forwards as it is backwards such as “Bob”.
 
